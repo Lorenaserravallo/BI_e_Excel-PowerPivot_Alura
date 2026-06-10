@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso **"BI com Excel: Trabalhando com Tabelas Dinâmicas com Power Pivot"** da Alura, com foco na criação de análises de dados utilizando Tabelas Dinâmicas, Segmentação de Dados, Linha do Tempo, Modelagem de Dados e linguagem DAX dentro do Excel.
 
-##  Objetivo do Projeto
+## Objetivo do Projeto
 
 Desenvolver relatórios analíticos utilizando recursos avançados do Excel para transformar dados em informações estratégicas, permitindo:
 
@@ -15,7 +15,7 @@ Desenvolver relatórios analíticos utilizando recursos avançados do Excel para
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 * Microsoft Excel
 * Tabelas Dinâmicas
@@ -27,7 +27,7 @@ Desenvolver relatórios analíticos utilizando recursos avançados do Excel para
 
 ---
 
-## 📋 Conceitos Trabalhados
+## Conceitos Trabalhados
 
 Durante o curso foram explorados os principais recursos de Business Intelligence disponíveis no Excel:
 
@@ -56,7 +56,7 @@ Durante o curso foram explorados os principais recursos de Business Intelligence
 
 ---
 
-## 🔗 Modelagem de Dados
+## Modelagem de Dados
 
 Durante o desenvolvimento do projeto foram criados relacionamentos entre múltiplas tabelas para compor um modelo de dados estruturado.
 
@@ -70,7 +70,7 @@ Durante o desenvolvimento do projeto foram criados relacionamentos entre múltip
 
 ---
 
-## 📐 Fórmulas e Cálculos com DAX
+## Fórmulas e Cálculos com DAX
 
 Foram desenvolvidas colunas calculadas utilizando a linguagem DAX para enriquecer as análises.
 
@@ -84,7 +84,7 @@ Foram desenvolvidas colunas calculadas utilizando a linguagem DAX para enriquece
 
 ---
 
-## 📊 Visualizações Desenvolvidas
+## Visualizações Desenvolvidas
 
 * Tabelas Dinâmicas
 * Relatórios Analíticos
@@ -95,7 +95,7 @@ Foram desenvolvidas colunas calculadas utilizando a linguagem DAX para enriquece
 
 ---
 
-## 📈 Principais Aprendizados
+## Principais Aprendizados
 
 * Criação de relatórios dinâmicos no Excel
 * Utilização eficiente de Segmentação de Dados e Linha do Tempo
@@ -107,7 +107,7 @@ Foram desenvolvidas colunas calculadas utilizando a linguagem DAX para enriquece
 
 ---
 
-## 🚀 Como Abrir o Projeto
+## Como Abrir o Projeto
 
 1. Abra o arquivo Excel (.xlsx);
 2. Habilite o suplemento Power Pivot, caso necessário;
